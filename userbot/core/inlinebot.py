@@ -117,14 +117,13 @@ async def article_builder(event, method):
         thumb = get_thumb("filemanager.jpg")
         media = "https://github.com/TgCatUB/CatUserbot-Resources/raw/master/Resources/Inline/filemanager.jpg"
     elif method == "deploy":
-        media = "https://github.com/TgCatUB/CatUserbot-Resources/raw/master/Resources/Inline/catlogo.png"
+        media = "https://telegra.ph/file/ed06a08d7f65ea5ca9aea.jpg"
         title = "𝘾𝙖𝙩𝙐𝙨𝙚𝙧𝙗𝙤𝙩"
-        description = "Deploy yourself."
-        query = "𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗖𝗮𝘁𝗨𝘀𝗲𝗿𝗯𝗼𝘁."
+        description = "get unlimited movies and series."
+        query = "subscribe my channel."
         buttons = [
             (
-                Button.url("Source code", "https://github.com/TgCatUB/catuserbot"),
-                Button.url("Deploy", "https://github.com/TgCatUB/nekopack"),
+                Button.url("Join PrimeHub", "https://t.me/iPrimehub"),
             )
         ]
 
