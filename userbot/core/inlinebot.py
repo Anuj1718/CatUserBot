@@ -53,8 +53,7 @@ def ibuild_keyboard(buttons):
 
 
 def main_menu():
-    text = f"𝗖𝗮𝘁𝗨𝘀𝗲𝗿𝗯𝗼𝘁 𝗛𝗲𝗹𝗽𝗲𝗿\
-        \n𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗱 𝗯𝘆 {mention}"
+    text = f"𝕃𝕖𝕞𝕠𝕟'𝕤 𝔸𝕤𝕤𝕚𝕤𝕥𝕒𝕟𝕥"
     buttons = [
         (Button.inline("ℹ️ Info", data="check"),),
         (
