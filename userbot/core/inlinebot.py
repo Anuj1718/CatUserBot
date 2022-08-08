@@ -118,12 +118,12 @@ async def article_builder(event, method):
         media = "https://github.com/TgCatUB/CatUserbot-Resources/raw/master/Resources/Inline/filemanager.jpg"
     elif method == "deploy":
         media = "https://telegra.ph/file/ed06a08d7f65ea5ca9aea.jpg"
-        title = "𝘾𝙖𝙩𝙐𝙨𝙚𝙧𝙗𝙤𝙩"
-        description = "get unlimited movies and series."
+        title = "𝐏𝐫𝐢𝐦𝐞𝐇𝐮𝐛"
+        description = "ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇꜱ ᴀɴᴅ ꜱᴇʀɪᴇꜱ, ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴛʜɪꜱ ʙᴏᴛ 🗣."
         query = "subscribe my channel."
         buttons = [
             (
-                Button.url("Join PrimeHub", "https://t.me/iPrimehub"),
+                Button.url("NetFlix", "https://t.me/NetFlimBot"),
             )
         ]
 
