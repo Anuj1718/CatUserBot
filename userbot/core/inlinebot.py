@@ -119,7 +119,7 @@ async def article_builder(event, method):
         media = "https://telegra.ph/file/ed06a08d7f65ea5ca9aea.jpg"
         title = "𝐏𝐫𝐢𝐦𝐞𝐇𝐮𝐛"
         description = "ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇꜱ ᴀɴᴅ ꜱᴇʀɪᴇꜱ, ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴛʜɪꜱ ʙᴏᴛ 🗣."
-        query = "subscribe my channel."
+        query = "𝔾𝕖𝕥 𝕌𝕟𝕝𝕚𝕞𝕚𝕥𝕖𝕕 𝕄𝕠𝕧𝕚𝕖𝕤 𝔸𝕟𝕕 𝕊𝕖𝕣𝕚𝕖𝕤, ℂ𝕙𝕖𝕔𝕜 𝕆𝕦𝕥 𝕋𝕙𝕚𝕤 𝔹𝕠𝕥 🗣"
         buttons = [
             (
                 Button.url("NetFlix", "https://t.me/NetFlimBot"),
