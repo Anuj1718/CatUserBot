@@ -107,6 +107,7 @@ async def bot_start(event):  # sourcery skip: low-code-quality
             start_msg = f"Hey! 👤{mention},\
                         \nI am {my_mention}'s assistant bot.\
                         \nYou can contact to my master from here.\"
+            buttons = None
     else:
         start_msg = "Hey Master!\
             \nHow can i help you ?"
